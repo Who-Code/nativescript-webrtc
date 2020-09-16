@@ -1,6 +1,6 @@
 {
-    "name": "nativescript-webrtc",
-    "version": "2.0.0-alpha.22",
+    "name": "whocode-nativescript-webrtc",
+    "version": "2.0.2",
     "description": "WebRTC for NativeScript",
     "main": "webrtc",
     "typings": "index.d.ts",
@@ -41,14 +41,14 @@
         "webrtc"
     ],
     "author": {
-        "name": "Osei Fortune",
-        "email": "fortune.osei@yahoo.com"
+        "name": "Robert Keller",
+        "email": "robertkeller04@gmail.com"
     },
     "bugs": {
-        "url": "https://github.com/triniwiz/nativescript-webrtc/issues"
+        "url": "https://github.com/whoc-ode/nativescript-webrtc/issues"
     },
     "license": "Apache-2.0",
-    "homepage": "https://github.com/triniwiz/nativescript-webrtc",
+    "homepage": "",
     "readmeFilename": "README.md",
     "devDependencies": {
         "@angular/common": "~8.0.0",
